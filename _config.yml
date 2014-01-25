@@ -1,3 +1,10 @@
-name: Your New Jekyll Site
-markdown: redcarpet
+name: Eric Fontaine - Computer Engineer
+description: open source tools for freedom and fun!
+
+url: "http://ericfontaine.io"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
 pygments: true

@@ -1,4 +1,6 @@
-name: Eric Fontaine
+name: ericfontaine.io
+description: personal blog about open-source projects
+url: http://ericfontaine.io
 markdown: redcarpet
 safe: true
 lsi: false

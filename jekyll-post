@@ -134,7 +134,7 @@ def main():
 
     # ERF added auto commit to git repository
     subprocess.call(['jekyll', 'build'])
-    subprocess.call(['git', 'commit -a -m "' + filename + '"'])
+    subprocess.call(['git', 'commit', '-a', '-m "' + filename + '"'])
     subprocess.call(['git', 'push' ])
 
     # print confirmation statement

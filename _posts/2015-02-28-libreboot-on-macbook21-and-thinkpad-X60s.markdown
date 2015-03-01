@@ -6,10 +6,10 @@ categories:
 ---
 
 I managed to install [libreboot] on both a old 2007 Macbook 2,1 and a Thinkpad X60s.
-The macbook has a broken monitor (which I got off ebay for $50), so I will use it as a server!
+The macbook has a broken monitor and DVD drive (which explains how I got off ebay for <$50), but that is ok since I'm putting in two 1TB drives so I can use it as a fully-libre parabola linux server!
 
-![Alt Macbook](/img/IMG_20150228_205219.jpeg "Macbook booting libreboot" =250x )
-![Alt X60s](/img/IMG_20150228_210931.jpeg "Thinkpad X60s booting libreboot" =250x)
-![Alt Stickers](/img/IMG_20150228_211128.jpeg "Obligatory freedom stickers" =250x)
+![Alt Macbook](/img/IMG_20150228_205219.jpeg "Macbook booting libreboot" =250x400 )
+![Alt X60s](/img/IMG_20150228_210931.jpeg "Thinkpad X60s booting libreboot" =250x400)
+![Alt Stickers](/img/IMG_20150228_211128.jpeg "Obligatory freedom stickers" =250x400)
 
 [libreboot]: http://www.libreboot.org

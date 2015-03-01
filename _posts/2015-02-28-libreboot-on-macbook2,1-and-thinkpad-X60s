@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Libreboot on Macbook 2,1 and Thinkpad X60s"
+date:   2015-02-28 20:27:44
+categories:
+---
+
+I managed to install [libreboot] on both a old 2007 Macbook 2,1 and a Thinkpad X60s.  The macbook has a broken monitor (which I got off ebay for $50), so I will use it as a server!
+
+[libreboot]: http://www.libreboot.org

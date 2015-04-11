@@ -9,6 +9,6 @@ This site has been made statically with [Jekyll][jekyll] and hosted on [github p
 
 [jekyll]: http://jekyllrb.com
 [github-pages]: http://pages.github.com
-[bitcoin]: http://weusecoins.com
+[bitcoin]: https://www.weusecoins.com
 [namecheap]: http://namecheap.com
 

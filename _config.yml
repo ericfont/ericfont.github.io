@@ -5,4 +5,4 @@ markdown: kramdown
 safe: true
 lsi: false
 permalink: date
-pygments: true
+highlighter: rogue

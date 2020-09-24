@@ -1,7 +1,7 @@
 name: ericfontaine.io
 description: personal blog about open-source projects...
 url: https://ericfontaine.io
-markdown: redcarpet
+markdown: kramdown
 safe: true
 lsi: false
 permalink: date

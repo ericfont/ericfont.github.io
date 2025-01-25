@@ -1,6 +1,6 @@
 name: ericfontaine.io
 description: personal blog about open-source projects...
-url: https://ericfontaine.io
+url: https://ericfont.github.io
 markdown: kramdown
 safe: true
 lsi: false
